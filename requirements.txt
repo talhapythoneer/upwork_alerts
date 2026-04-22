@@ -1,0 +1,5 @@
+scrapy
+selenium
+undetected-chromedriver
+pyaudio
+rich

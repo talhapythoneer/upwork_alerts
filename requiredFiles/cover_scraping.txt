@@ -1,0 +1,19 @@
+Hi [Client Name],
+
+I reviewed your project details and can help automate this workflow end-to-end.
+
+My approach:
+- Confirm requirements and expected output format
+- Build a reliable Python automation/scraping workflow
+- Add validation and retry handling for stability
+- Deliver clean output data and handover notes
+
+Before we start, please confirm:
+1) What input format should be accepted?
+2) What output format do you need?
+3) Are there edge cases I should prioritize?
+
+I can start immediately and share a first working version quickly.
+
+Regards,
+[Your Name]
