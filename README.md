@@ -1,5 +1,7 @@
 # Upwork Job Alert & Auto-Apply Bot
 
+![Banner](requiredFiles/banner.png)
+
 Automates the process of finding, filtering, and applying to relevant Upwork jobs in near real-time.
 
 ## Overview
